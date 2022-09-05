@@ -2,10 +2,13 @@
 
 &nbsp;
 
-🐈 *ねこです。なにかをつくります。*
+🐈 _ねこです。なにかをつくります。_
 
-[![Twitter](https://img.shields.io/badge/@arrow__2nd-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arrow_2nd/)
-[![MailAddress](https://img.shields.io/badge/contact@arrow2nd.com-840010?style=for-the-badge&logo=tutanota&logoColor=white)](mailto:contact@arrow2nd.com)
+[![Twitter](./icons/twitter.svg)](https://twitter.com/arrow_2nd/)
+&nbsp;&nbsp;
+[![Zenn](./icons/zenn.svg)](https://zenn.dev/arrow2nd/)
+&nbsp;&nbsp;
+[![MailAddress](./icons/envelope-solid.svg)](mailto:contact@arrow2nd.com)
 
 &nbsp;
 
