@@ -2,7 +2,7 @@
 
 &nbsp;
 
-🐈 _ねこです。なにかをつくります。_
+🐈 _ねこです。なにかつくります。_
 
 [![Twitter](./icons/twitter.svg)](https://twitter.com/arrow_2nd/)
 &nbsp;&nbsp;
