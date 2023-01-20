@@ -4,9 +4,9 @@
 
 🐈 _ねこです。なにかつくります。_
 
-[![Twitter](./icons/twitter.svg)](https://twitter.com/arrow_2nd/)
+[![im@stodon](./icons/mastodon.svg)])(https://imastodon.net/web/@arrow2nd)
 &nbsp;&nbsp;
-[![Zenn](./icons/zenn.svg)](https://zenn.dev/arrow2nd/)
+[![Zenn](./icons/zenn.svg)](https://zenn.dev/arrow2nd)
 &nbsp;&nbsp;
 [![MailAddress](./icons/envelope-solid.svg)](mailto:contact@arrow2nd.com)
 
