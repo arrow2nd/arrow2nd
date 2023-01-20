@@ -4,7 +4,7 @@
 
 🐈 _ねこです。なにかつくります。_
 
-[![im@stodon](./icons/mastodon.svg)])(https://imastodon.net/web/@arrow2nd)
+[![im@stodon](./icons/mastodon.svg)](https://imastodon.net/@arrow2nd)
 &nbsp;&nbsp;
 [![Zenn](./icons/zenn.svg)](https://zenn.dev/arrow2nd)
 &nbsp;&nbsp;
