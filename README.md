@@ -1,19 +1,3 @@
-<div align="center">
-
-&nbsp;
-
-_にゃーん_
-
-[![im@stodon](./icons/mastodon.svg)](https://imastodon.net/@arrow2nd)
-&nbsp;&nbsp;
-[![Zenn](./icons/zenn.svg)](https://zenn.dev/arrow2nd)
-&nbsp;&nbsp;
-[![MailAddress](./icons/envelope-solid.svg)](mailto:contact@arrow2nd.com)
-
-&nbsp;
-
-</div>
-
 ## 🔖 Favorite im@s idols
 
 [![白菊ほたる](https://img.shields.io/badge/CINDERELLA%20GIRLS-%E7%99%BD%E8%8F%8A%E3%81%BB%E3%81%9F%E3%82%8B-D162CB?style=for-the-badge)](https://idollist.idolmaster-official.jp/detail/20088)
@@ -31,3 +15,11 @@ _にゃーん_
 &nbsp;
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrow2nd&title_color=515558&text_color=515558&langs_count=3" />
 </div>
+
+## 🔗 Links
+
+[![im@stodon](https://img.shields.io/badge/im@stodon-6364FF?logo=Mastodon&logoColor=white&style=for-the-badge)](https://imastodon.net/@arrow2nd)
+&nbsp;
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?logo=Zenn&logoColor=white&style=for-the-badge)](https://zenn.dev/arrow2nd)
+&nbsp;
+[![MailAddress](https://img.shields.io/badge/Contact-840010?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:contact@arrow2nd.com)
