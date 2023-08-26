@@ -5,7 +5,9 @@
 [![北上麗花](https://img.shields.io/badge/MILLION%20LIVE!-%E5%8C%97%E4%B8%8A%E9%BA%97%E8%8A%B1-6BB6B0?style=for-the-badge)](https://idollist.idolmaster-official.jp/detail/30005)
 &nbsp;
 [![幽谷霧子](https://img.shields.io/badge/SHINY%20COLORS-%E5%B9%BD%E8%B0%B7%E9%9C%A7%E5%AD%90-D9F2FF?style=for-the-badge)](https://idollist.idolmaster-official.jp/detail/50023)
+&nbsp;
 [![杜野凛世](https://img.shields.io/badge/SHINY%20COLORS-%E6%9D%9C%E9%87%8E%E5%87%9B%E4%B8%96-89C3EB?style=for-the-badge)](https://idollist.idolmaster-official.jp/detail/50022)
+&nbsp;
 [![芹沢あさひ](https://img.shields.io/badge/SHINY%20COLORS-%E8%8A%B9%E6%B2%A2%E3%81%82%E3%81%95%E3%81%B2-F30100?style=for-the-badge)](https://idollist.idolmaster-official.jp/detail/50013)
 
 ## 🐾 Stats
