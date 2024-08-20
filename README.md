@@ -9,7 +9,8 @@
 [![杜野凛世](https://img.shields.io/badge/SHINY%20COLORS-%E6%9D%9C%E9%87%8E%E5%87%9B%E4%B8%96-89C3EB?style=for-the-badge)](https://idollist.idolmaster-official.jp/detail/50022)
 &nbsp;
 [![芹沢あさひ](https://img.shields.io/badge/SHINY%20COLORS-%E8%8A%B9%E6%B2%A2%E3%81%82%E3%81%95%E3%81%B2-F30100?style=for-the-badge)](https://idollist.idolmaster-official.jp/detail/50013)
-[![篠澤広](https://img.shields.io/badge/%E5%AD%A6%E5%9C%92%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC-%E7%AF%A0%E6%BE%A4%E5%BA%83-48C6DA?style=for-the-badge)](https://idollist.idolmaster-official.jp/detail/60008)
+&nbsp;
+[![篠澤広](https://img.shields.io/badge/%E5%88%9D%E6%98%9F%E5%AD%A6%E5%9C%92-%E7%AF%A0%E6%BE%A4%E5%BA%83-48C6DA?style=for-the-badge)](https://idollist.idolmaster-official.jp/detail/60008)
 
 ## 🐾 Stats
 
