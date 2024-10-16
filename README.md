@@ -8,6 +8,8 @@
 
 [![Twitter](https://img.shields.io/badge/X-000000?logo=X&logoColor=white&style=for-the-badge)](https://x.com/_arrow2nd)
 &nbsp;
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=Bluesky&logoColor=white&style=for-the-badge)](https://x.com/_arrow2nd)
+&nbsp;
 [![im@stodon](https://img.shields.io/badge/im@stodon-6364FF?logo=Mastodon&logoColor=white&style=for-the-badge)](https://imastodon.net/@arrow2nd)
 &nbsp;
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?logo=Zenn&logoColor=white&style=for-the-badge)](https://zenn.dev/arrow2nd)
