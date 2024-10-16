@@ -8,7 +8,7 @@
 
 [![Twitter](https://img.shields.io/badge/X-000000?logo=X&logoColor=white&style=for-the-badge)](https://x.com/_arrow2nd)
 &nbsp;
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=Bluesky&logoColor=white&style=for-the-badge)](https://x.com/_arrow2nd)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=Bluesky&logoColor=white&style=for-the-badge)](https://bsky.app/profile/arrow2nd.com)
 &nbsp;
 [![im@stodon](https://img.shields.io/badge/im@stodon-6364FF?logo=Mastodon&logoColor=white&style=for-the-badge)](https://imastodon.net/@arrow2nd)
 &nbsp;
